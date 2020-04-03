@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class CircleClass_ {
     public static void main(String[] args) {
 		CircleClass c = new CircleClass();
@@ -11,7 +10,6 @@ public class CircleClass_ {
 		System.out.println("Diameter:      " + c.getd());
 		System.out.println("Circumference: " + c.getc());
 		scan.close();
-
 	}
 
 }
